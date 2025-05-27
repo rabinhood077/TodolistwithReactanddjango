@@ -1,0 +1,33 @@
+/* Base styles */
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.app-header {
+  text-align: center;
+  padding: 20px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.app-header h1 {
+  margin: 0;
+  color: #333;
+}
+
+.app-main {
+  flex: 1;
+  padding: 20px 0;
+}
+
+.app-footer {
+  text-align: center;
+  padding: 20px 0;
+  border-top: 1px solid #eee;
+  color: #666;
+  font-size: 0.9rem;
+}
