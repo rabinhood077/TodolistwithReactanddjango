@@ -21,6 +21,7 @@
 
 // export default App;
 
+// udated verion of code 
 import TodoList from './components/TodoList';
 import './App.css';
 
